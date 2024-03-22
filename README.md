@@ -11,7 +11,7 @@ ratings, and genres from the "Books to Scrape" website using
 web scraping techniques.
 Transformed raw HTML data into a structured tabular format, cleaning and
 enriching it for further analysis.
-Automated the ETL process, scheduling regular updates to maintain an up-todate dataset for analysis.
+Automated the ETL process, scheduling regular updates to maintain an up-to date dataset for analysis.
 Outcome: Successfully deployed a robust ETL pipeline for scraping and
 analyzing book data from the "Books to Scrape" website,
-empowering stakeholders with actionable insights for informed decisionmaking in the book industry
+empowering stakeholders with actionable insights for informed decision making in the book industry
